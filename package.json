@@ -1,5 +1,5 @@
 {
-  "name": "nd-farm",
+  "name": "node-farm",
   "version": "1.0.0",
   "description": "Learn nodejs,express,mongoDB",
   "main": "index.js",

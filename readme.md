@@ -1,2 +1,2 @@
 # NODE Farm Application
-Build using modern technologies: node.js😄
+Built using modern technologies: node.js😄
